@@ -2,8 +2,6 @@
 
 Dataset: https://www.kaggle.com/datasets/nabihazahid/spotify-dataset-for-churn-analysis
 
-Google Colab: https://colab.research.google.com/drive/1LGQxScbNl6SthrgVmPXgIazg1jC37XTN?usp=sharing
-
 # Spotify Churn Analysis
 
 ## Overview
